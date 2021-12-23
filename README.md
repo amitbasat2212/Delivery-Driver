@@ -2,5 +2,5 @@
 Delivery-Driver game, which you pick up your packages with a car and drop them in a station for delivery 
 
 
-Uploading DeliveryDriver - SampleScene - Windows, Mac, Linux - Unity 2021.2.5f1 Personal _DX11_ 2021-12-23 13-39-50.mp4…
+https://user-images.githubusercontent.com/72205513/147235996-72737dc5-1826-44b0-b7f8-7d6ec56a717a.mp4
 
